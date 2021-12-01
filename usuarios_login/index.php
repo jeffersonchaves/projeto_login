@@ -8,7 +8,7 @@
 </head>
 <body>
 
-    <form action="valida_login.php" method="POST">
+    <form action="app/controllers/login_controller.php" method="POST">
     
         <label for="field_usuario">usuário: </label>
         <input type="text" name="field_usuario">
